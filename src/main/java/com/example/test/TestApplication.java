@@ -86,19 +86,19 @@ public class TestApplication {
                         new Question.Answer("Совокупность ресурсов, работающих на достижение общей цели", true),
                         new Question.Answer("Набор независимых процессов", false)
                 ),
-                new Question("Какие из следующих свойств не относится к системам?",
+                new Question("Какие из следующих свойств не относятся к системам?",
                         new Question.Answer("Целостность", false),
                         new Question.Answer("Изолированность", true),
                         new Question.Answer("Эмерджентность", false),
                         new Question.Answer("Динамичность", false)
                 ),
-                new Question("Какие из следующих методов системного анализа включает в себя оценку внешней среды?",
+                new Question("Какие из следующих методов системного анализа включают в себя оценку внешней среды?",
                         new Question.Answer("SWOT-анализ", true),
                         new Question.Answer("PEST-анализ", true),
                         new Question.Answer("Метод морфологического анализа", false),
                         new Question.Answer("Метод анализа иерархий", false)
                 ),
-                new Question("Какие из следующих этапов не является частью системного анализа?",
+                new Question("Какие из следующих этапов не являются частью системного анализа?",
                         new Question.Answer("Определение потребностей в ресурсах", false),
                         new Question.Answer("Сбор данных о внешней среде", false),
                         new Question.Answer("Разработка программного обеспечения", true),
@@ -110,7 +110,7 @@ public class TestApplication {
                         new Question.Answer("Модель, использующаяся для упрощения анализа системы", true),
                         new Question.Answer("Модель, описывающая структуру системы", false)
                 ),
-                new Question("Какие из утверждений о циклах обратной связи верно?",
+                new Question("Какие из утверждений о циклах обратной связи верны?",
                         new Question.Answer("Они могут быть как усиливающими, так и уравновешивающими", true),
                         new Question.Answer("Они всегда усиливающие", false),
                         new Question.Answer("Они могут быть внешними и внутренними", true),
@@ -119,8 +119,7 @@ public class TestApplication {
                 new Question("Какой метод используется для анализа альтернатив?",
                         new Question.Answer("Метод SWOT-анализа", false),
                         new Question.Answer("Метод морфологического анализа", false),
-                        new Question.Answer("Метод анализа иерархий", true),
-                        new Question.Answer("Метод многокритериального анализа", true)
+                        new Question.Answer("Метод анализа иерархий", true)
                 ),
                 new Question("Что такое факторный анализ?",
                         new Question.Answer("Метод, который не имеет четкой структуры", false),
@@ -128,14 +127,13 @@ public class TestApplication {
                         new Question.Answer("Метод, который применяется только в экономике", false),
                         new Question.Answer("Метод, позволяющий выделить ключевые факторы из множества переменных", true)
                 ),
-                new Question("Какие из методов является частью стратегического системного анализа?",
+                new Question("Какие из методов являются частью стратегического системного анализа?",
                         new Question.Answer("PEST-анализ", true),
                         new Question.Answer("SWOT-анализ", true),
                         new Question.Answer("Метод Дельфи", false),
                         new Question.Answer("Метод сценарного планирования", true)
                 ),
                 new Question("Что такое жизненный цикл проекта развития организации?",
-                        new Question.Answer("Процесс, который включает в себя стадии от идеи до завершения проекта", true),
                         new Question.Answer("Последовательность действий, необходимых для достижения целей проекта", true),
                         new Question.Answer("Метод, который используется только для крупных проектов", false),
                         new Question.Answer("Время, необходимое для выполнения одного этапа проекта", false)
