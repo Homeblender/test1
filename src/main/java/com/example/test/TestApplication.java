@@ -67,7 +67,7 @@ public class TestApplication {
 
         if (score.get() == questions.size()) {
             System.out.println("Отлично! Вы все правильно ответили!");
-        } else if (score.get() > questions.size() * 2 / 3) {
+        } else if (score.get() > questions.size() * 3 / 4) {
             System.out.println("Хорошо! Вы ответили правильно на " + score + " вопрос(ов).");
         } else if (score.get() > questions.size() / 2) {
             System.out.println("Удовлетворительно. Вы ответили правильно на " + score + " вопрос(ов).");
