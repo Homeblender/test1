@@ -83,7 +83,6 @@ public class TestApplication {
                 new Question("Что такое система?",
                         new Question.Answer("Набор взаимосвязанных элементов, обладающих целостностью", true),
                         new Question.Answer("Случайное объединение объектов", false),
-                        new Question.Answer("Совокупность ресурсов, работающих на достижение общей цели", true),
                         new Question.Answer("Набор независимых процессов", false)
                 ),
                 new Question("Какие из следующих свойств не относятся к системам?",
